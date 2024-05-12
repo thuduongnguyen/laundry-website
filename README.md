@@ -1,8 +1,8 @@
 # Laundry Website
 
-#### Deployment
+### Deployment
 Link: https://thuduongnguyen.github.io/laundry-website/
 
-#### Technique
+### Technique
 - HTML
 - CSS
